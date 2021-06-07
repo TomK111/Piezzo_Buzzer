@@ -1,4 +1,4 @@
-# Piezzo_Buzzer
+# Piezzo Buzzer
 
 ## Equipment
 1. Breadboard
